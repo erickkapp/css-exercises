@@ -5,15 +5,14 @@ p {
 
 #one {
     color: #1a00ff;
-    font-size: 32px;
+    font-size: 36px;
 }
 
-#cool {
+.twentyfour {
     font-size: 24px;
 }
 
 #fourth {
     background-color: #11ff00;
-    font-size: 24px;
     font-weight: bold;
 }
